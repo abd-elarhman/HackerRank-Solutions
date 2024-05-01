@@ -8,11 +8,10 @@ Welcome to my collection of HackerRank problem solutions. This repository is org
 Navigate through the repository using the table below. Each problem is categorized by difficulty, skills required, and specific subdomains within data structures and algorithms.
 
 ## Problem Categories
-
 ### Data Structures
 | Problem Name | Difficulty | Skills Level | Subdomains |
 |:------------:|:----------:|:------------:|:----------:|
-| **Problem A** | Easy | Basic | Arrays |
+| **[Problem A](Problem Solving/Algorithms/Basic/Problem 01.c)** | Easy | Basic | Arrays |
 | **Problem B** | Medium | Intermediate | Linked Lists |
 | **Problem C** | Hard | Advanced | Trees |
 | ... | ... | ... | ... |
