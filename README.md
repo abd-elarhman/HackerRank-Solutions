@@ -7,7 +7,7 @@
 /* -------------------------------------------------------------------- */
 
 [1] HypeLink: 
-              **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem A</a>** 
+              **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem </a>** 
               **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** 
               ** for bold
               %20 for spaces
@@ -76,7 +76,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 ### Algorithms
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
 |:------------:|:----------:|:----------:|:------------:|:----------:|
-| **<a href="Problem Solving/Algorithms/Basic">Birthday Cake Candles.c A</a>** | **<a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">🌐 A</a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
+| **<a href="Problem Solving/Algorithms/Basic">Birthday Cake Candles.c </a>** | **<a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | ... | ... | ... | ... |
 
 
