@@ -11,8 +11,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 ### Data Structures
 | Problem Name | Difficulty | Skills Level | Subdomains |
 |:------------:|:----------:|:------------:|:----------:|
-| **[Problem A](Problem\ Solving/Algorithms/Basic/Problem\ 01.c)** | Easy | Basic | Arrays |
-| **[Problem A]("Problem Solving/Algorithms/Basic/Problem 01.c")** | Easy | Basic | Arrays |
+| **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem A</a>** | Easy | Basic | Arrays |
 | **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** | Easy | Basic | Arrays |
 | **Problem B** | Medium | Intermediate | Linked Lists |
 | **Problem C** | Hard | Advanced | Trees |
