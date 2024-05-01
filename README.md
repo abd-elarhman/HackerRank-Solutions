@@ -1,3 +1,18 @@
+<!-- 
+
+/* -------------------------------------------------------------------- */
+/*                                                                      */
+/*                          Comments                                    */
+/*                                                                      */
+/* -------------------------------------------------------------------- */
+
+[1] HypeLink: 
+              **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem A</a>** 
+              **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** 
+              ** for bold
+              %20 for spaces
+-->
+
 # HackerRank Problems Repository
 
 > first test
@@ -6,6 +21,7 @@ Welcome to my collection of HackerRank problem solutions. This repository is org
 
 ## How to Use This Repository
 Navigate through the repository using the table below. Each problem is categorized by difficulty, skills required, and specific subdomains within data structures and algorithms.
+
 
 ## Problem Categories
 ### Data Structures
