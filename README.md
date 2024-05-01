@@ -21,45 +21,44 @@
               | 📊 **Problem B** | 🟡 Medium | 🚀 Intermediate | 🔗 Linked Lists |
               | 📈 **Problem C** | 🔴 Hard | 🌟 Advanced | 🌲 Trees |
               | ... | ... | ... | ... |
-              Certainly! Here are emojis that you can use for each of the categories and subdomains you've listed:
 
-- Warmup: 🔥
-- Implementation: 🛠️
-- Strings: 🧵
-- Sorting: 🔢
-- Search: 🔍
-- Graph Theory: 🌐
-- Greedy: 💰
-- Dynamic Programming: ⏳
-- Constructive Algorithms: 🏗️
-- Bit Manipulation: 💡
-- Recursion: 🔁
-- Game Theory: 🎲
-- NP Complete: 🧩
-- Debugging: 🐞
-
-For Data Structures:
-- Arrays: 🔢
-- Linked Lists: 🔗
-- Trees: 🌲
-- Balanced Trees: ⚖️
-- Stacks: 📚
-- Queues: 🚶‍♂️🚶‍♀️
-- Heap: 🗑️
-- Disjoint Set: 🧿
-- Multiple Choice: ✅
-- Trie: 🌳
-- Advanced: 🚀
-
-Feel free to use these emojis to enhance the visual appeal of your README file and make it more intuitive. Happy coding! 🌟
-
-              ### Algorithms
-              
-              🔍 Sorting 
-              🌐 Graph Theory 
-              🔄 Dynamic Programming 
-
-
+			  - Warmup: 🔥
+			  - Implementation: 🛠️
+			  - Strings: 🧵
+			  - Sorting: 🔢
+			  - Search: 🔍
+			  - Graph Theory: 🌐
+			  - Greedy: 💰
+			  - Dynamic Programming: ⏳
+			  - Constructive Algorithms: 🏗️
+			  - Bit Manipulation: 💡
+			  - Recursion: 🔁
+			  - Game Theory: 🎲
+			  - NP Complete: 🧩
+			  - Debugging: 🐞
+			  
+			  For Data Structures:
+			  - Arrays: 🔢
+			  - Linked Lists: 🔗
+			  - Trees: 🌲
+			  - Balanced Trees: ⚖️
+			  - Stacks: 📚
+			  - Queues: 🚶‍♂️🚶‍♀️
+			  - Heap: 🗑️
+			  - Disjoint Set: 🧿
+			  - Multiple Choice: ✅
+			  - Trie: 🌳
+			  - Advanced: 🚀
+			  
+			  Feel free to use these emojis to enhance the visual appeal of your README file and make it more intuitive. Happy coding! 🌟
+			  
+						  ### Algorithms
+						  
+						  🔍 Sorting 
+						  🌐 Graph Theory 
+						  🔄 Dynamic Programming 
+			  
+			  
 -->
 
 # HackerRank Problems Repository
@@ -71,10 +70,16 @@ Welcome to my collection of HackerRank problem solutions. This repository is org
 ## How to Use This Repository
 Navigate through the repository using the table below. Each problem is categorized by difficulty, skills required, and specific subdomains within data structures and algorithms.
 
+Absolutely, here are emojis that can be associated with each of the table headers for your README file:
+
+- Problem Name:
+- Difficulty:
+- Skills Level: 
+- Subdomains: 
 
 ## Problem Categories
 ### Data Structures
-| Problem Name | Difficulty | Skills Level | Subdomains |
+|  📝**Problem Name** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
 |:------------:|:----------:|:------------:|:----------:|
 | **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem A</a>** | Easy | Basic | Arrays |
 | **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** | Easy | Basic | Arrays |
@@ -83,7 +88,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 | ... | ... | ... | ... |
 
 ### Algorithms
-| Problem Name | Difficulty | Skills Level | Subdomains |
+|  📝**Problem Name** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
 |:------------:|:----------:|:------------:|:----------:|
 | **Problem X** | Easy | Basic | Sorting |
 | **Problem Y** | Medium | Intermediate | Graph Theory |
