@@ -11,6 +11,55 @@
               **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** 
               ** for bold
               %20 for spaces
+[2] emo
+              ## Problem Categories
+
+              ### Data Structures
+              | Problem Name | Difficulty | Skills Level | Subdomains |
+              |:------------:|:----------:|:------------:|:----------:|
+              | 📊 **Problem A** | 🟢 Easy | 🌱 Basic | 🔗 Arrays |
+              | 📊 **Problem B** | 🟡 Medium | 🚀 Intermediate | 🔗 Linked Lists |
+              | 📈 **Problem C** | 🔴 Hard | 🌟 Advanced | 🌲 Trees |
+              | ... | ... | ... | ... |
+              Certainly! Here are emojis that you can use for each of the categories and subdomains you've listed:
+
+- Warmup: 🔥
+- Implementation: 🛠️
+- Strings: 🧵
+- Sorting: 🔢
+- Search: 🔍
+- Graph Theory: 🌐
+- Greedy: 💰
+- Dynamic Programming: ⏳
+- Constructive Algorithms: 🏗️
+- Bit Manipulation: 💡
+- Recursion: 🔁
+- Game Theory: 🎲
+- NP Complete: 🧩
+- Debugging: 🐞
+
+For Data Structures:
+- Arrays: 🔢
+- Linked Lists: 🔗
+- Trees: 🌲
+- Balanced Trees: ⚖️
+- Stacks: 📚
+- Queues: 🚶‍♂️🚶‍♀️
+- Heap: 🗑️
+- Disjoint Set: 🧿
+- Multiple Choice: ✅
+- Trie: 🌳
+- Advanced: 🚀
+
+Feel free to use these emojis to enhance the visual appeal of your README file and make it more intuitive. Happy coding! 🌟
+
+              ### Algorithms
+              
+              🔍 Sorting 
+              🌐 Graph Theory 
+              🔄 Dynamic Programming 
+
+
 -->
 
 # HackerRank Problems Repository
