@@ -58,7 +58,8 @@
 						  🌐 Graph Theory 
 						  🔄 Dynamic Programming 
 			  
-			  
+			  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+			  Birthday Cake Candles
 -->
 
 # HackerRank Problems Repository
@@ -70,30 +71,20 @@ Welcome to my collection of HackerRank problem solutions. This repository is org
 ## How to Use This Repository
 Navigate through the repository using the table below. Each problem is categorized by difficulty, skills required, and specific subdomains within data structures and algorithms.
 
-Absolutely, here are emojis that can be associated with each of the table headers for your README file:
-
-- Problem Name:
-- Difficulty:
-- Skills Level: 
-- Subdomains: 
-
 ## Problem Categories
-### Data Structures
-|  📝**Problem Name** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
-|:------------:|:----------:|:------------:|:----------:|
-| **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem A</a>** | Easy | Basic | Arrays |
-| **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** | Easy | Basic | Arrays |
-| **Problem B** | Medium | Intermediate | Linked Lists |
-| **Problem C** | Hard | Advanced | Trees |
-| ... | ... | ... | ... |
 
 ### Algorithms
-|  📝**Problem Name** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
-|:------------:|:----------:|:------------:|:----------:|
-| **Problem X** | Easy | Basic | Sorting |
-| **Problem Y** | Medium | Intermediate | Graph Theory |
-| **Problem Z** | Hard | Advanced | Dynamic Programming |
+|  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
+|:------------:|:----------:|:----------:|:------------:|:----------:|
+| **<a href="Problem Solving/Algorithms/Basic">Birthday Cake Candles.c A</a>** | **<a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">🌐 A</a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | ... | ... | ... | ... |
+
+
+### Data Structures
+|  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
+|:------------:|:----------:|:----------:|:------------:|:----------:|
+| ... | ... | ... | ... |
+
 
 ## Contributing
 Contributions are welcome! If you have a solution to a problem that is not listed here, feel free to open a pull request.
