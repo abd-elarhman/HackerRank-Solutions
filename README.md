@@ -60,9 +60,24 @@
 			  
 			  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 			  Birthday Cake Candles
--->
 
-# HackerRank Problems Repository
+C
+HackerRank
+Algorithms
+Data Structures
+Problem Solving
+Coding Challenges
+C Programming
+Learning C
+Computer Science
+Educational
+-->
+📝 ***Feel free to contact me. I am always here ...*** <img src="assets/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/abd-elarhman?label=Follow%20Me&style=social)](https://github.com/abd-elarhman)
+<br>
+
+<br> [![Linkedin](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Ahmed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/-abdelrahman-ahmed//) [![Mail](https://img.shields.io/badge/abdelrahman.ahmed0599@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdelrahman.ahmed0599@gmail.com) [![HackerRank](https://img.shields.io/badge/HackerRank-abdelrahman_ah30-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/abdelrahman_ah30) </br>
+
+# HackerRank Solutions in C
 
 Welcome to my collection of HackerRank problem solutions. This repository is organized to facilitate easy navigation and to assist those looking to improve their problem-solving skills in data structures and algorithms.
 
