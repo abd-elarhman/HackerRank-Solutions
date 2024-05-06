@@ -83,6 +83,9 @@ Welcome to my collection of HackerRank problem solutions. This repository is org
 
 > [**C Geeks Alert!**] 🚨 All solutions in this repository are written in **C** language. Dive in!
 
+> [!**C Geeks Alert!**] 🚨\
+> All solutions in this repository are written in **C** language. Dive in!
+
 > [!IMPORTANT]\
 > text
 
