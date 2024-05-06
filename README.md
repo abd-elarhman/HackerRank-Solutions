@@ -82,9 +82,12 @@ Educational
 Welcome to my collection of HackerRank problem solutions. This repository is organized to facilitate easy navigation and to assist those looking to improve their problem-solving skills in data structures and algorithms.
 
 > [**C Geeks Alert!**] 🚨 All solutions in this repository are written in **C** language. Dive in!
+
 > [!IMPORTANT]\
 > text
+
 > [!IMPORTANT]\
+
 > [!IMPORTANT]
 
 ## How to Use This Repository
