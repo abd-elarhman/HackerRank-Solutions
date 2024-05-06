@@ -82,6 +82,12 @@ Welcome to my collection of HackerRank problem solutions. This repository is org
 > [**C Geeks Alert!**] 🚨\
 > All solutions in this repository are written in **C** language. Dive in!
 
+---
+
+🌟 **Show Some Love!** 🌟
+If you find this repository helpful, please consider giving it a ⭐️ and following me for more updates. Your support means a lot!
+
+
 ## How to Use This Repository
 Navigate through the repository using the table below. Each problem is categorized by difficulty, skills required, and specific subdomains within data structures and algorithms.
 
