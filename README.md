@@ -102,7 +102,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **nnnnn** | |  | | |
 | **<a href="Problem Solving/Algorithms/Basic/plus Minus.c">plus Minus </a>** | **<a href="https://www.hackerrank.com/challenges/plus-minus/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
-| **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
+| **<a href="Problem Solving/Algorithms/Basic/Mini-Max Sum.c">Mini-Max Sum </a>** | **<a href="[https://www.hackerrank.com/challenges/diagonal-difference/problem](https://www.hackerrank.com/challenges/mini-max-sum/problem)">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
