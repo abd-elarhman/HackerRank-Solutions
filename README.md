@@ -100,8 +100,8 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Compare_the_Triplets.c">Compare the Triplets </a>** | **<a href="https://www.hackerrank.com/challenges/compare-the-triplets">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/A Very Big Sum.c">A Very Big Sum </a>** | **<a href="https://www.hackerrank.com/challenges/a-very-big-sum/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
-| **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">nananananan </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
-| **<a href="Problem Solving/Algorithms/Basic/plus Minus.c.c">plus Minus </a>** | **<a href="https://www.hackerrank.com/challenges/plus-minus/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
+| **nnnnn** | |  | | |
+| **<a href="Problem Solving/Algorithms/Basic/plus Minus.c">plus Minus </a>** | **<a href="https://www.hackerrank.com/challenges/plus-minus/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
