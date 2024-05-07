@@ -106,6 +106,8 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Time Conversion.c">Time Conversion</a>** | **<a href="https://www.hackerrank.com/challenges/time-conversion/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Super Reduced String.c">Super Reduced String </a>** | **<a href="https://www.hackerrank.com/challenges/reduced-string/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
 | **<a href="Problem Solving/Algorithms/Basic/camelcase.c">camelcase </a>** | **<a href="https://www.hackerrank.com/challenges/camelcase/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
+| **<a href="Problem Solving/Algorithms/Basic/Strong Password.c">Strong Password </a>** | **<a href="https://www.hackerrank.com/challenges/strong-password/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
+
 
 ### Data Structures
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
