@@ -105,7 +105,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Staircase.c">Staircase </a>** | **<a href="https://www.hackerrank.com/challenges/staircase/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Time Conversion.c">Time Conversion</a>** | **<a href="https://www.hackerrank.com/challenges/time-conversion/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🔥 Warmup |
 | **<a href="Problem Solving/Algorithms/Basic/Super Reduced String.c">Super Reduced String </a>** | **<a href="https://www.hackerrank.com/challenges/reduced-string/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
-| **<a href="Problem Solving/Algorithms/Basic/Diagonal Difference.c">Diagonal Difference </a>** | **<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
+| **<a href="Problem Solving/Algorithms/Basic/camelcase.c">camelcase </a>** | **<a href="https://www.hackerrank.com/challenges/camelcase/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
 
 ### Data Structures
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
