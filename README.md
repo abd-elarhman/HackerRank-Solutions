@@ -78,7 +78,9 @@ Educational
 # HackerRank Solutions in C
 
 Welcome to my collection of **HackerRank problem solutions**. This repository is organized to facilitate easy navigation and to assist those looking to improve their problem-solving skills in data structures and algorithms.
+
 🚀 **Daily Coding Journey**
+
 🌟 Every day, I embark on a coding journey, conquering new challenges and unraveling the mysteries of algorithms and data structures.
 
 **Why daily?** Because like a marathon runner, I believe consistency is the key. Each day, I'll add fresh solution 🧠💡.
@@ -86,7 +88,7 @@ Welcome to my collection of **HackerRank problem solutions**. This repository is
 Join me on this journey! Explore the code, learn, and let's build our coding muscles together. 🤝
 
 🌟 **Show Some Love!** 🌟
-If you find this repository helpful and inspiring, please consider giving it a ⭐️ and following me . 
+
 If you find this repository, don't hesitate to give it a **star**⭐️ and **follow me** for more updates.Your support means a lot! 🌟💻
 
 
