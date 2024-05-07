@@ -112,7 +112,8 @@ Navigate through the repository using the table below. Each problem is categoriz
 ### Data Structures
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
 |:------------:|:----------:|:----------:|:------------:|:----------:|
-| **<a href="Problem Solving/Algorithms/Basic/Sparse Arrays.c">Sparse Arrays </a>** | **<a href="https://www.hackerrank.com/challenges/sparse-arrays/problem">🌐 </a>** | 🟡 Medium | 🌱 Basic | 🔗 Arrays |
+| **<a href="Problem Solving/Data Structures/Basic/Sparse Arrays.c">Sparse Arrays </a>** | **<a href="https://www.hackerrank.com/challenges/sparse-arrays/problem">🌐 </a>** | 🟡 Medium | 🌱 Basic | 🔗 Arrays |
+
 
 ## Contributing
 Contributions are welcome! If you have a solution to a problem that is not listed here, feel free to open a <a href="https://github.com/abd-elarhman/HackerRank/pulls">pull request</a></strong>.
