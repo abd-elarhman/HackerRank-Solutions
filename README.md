@@ -115,6 +115,8 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/camelcase.c">camelcase </a>** | **<a href="https://www.hackerrank.com/challenges/camelcase/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
 | **<a href="Problem Solving/Algorithms/Basic/Strong Password.c">Strong Password </a>** | **<a href="https://www.hackerrank.com/challenges/strong-password/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
 | **<a href="Problem Solving/Algorithms/Basic/Pangrams.c">Pangrams </a>** | **<a href="https://www.hackerrank.com/challenges/pangrams/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
+| **<a href="Problem Solving/Algorithms/Basic/Caesar Cipher.c">Caesar Cipher </a>** | **<a href="https://www.hackerrank.com/challenges/pangrams/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
+
 
 ### Data Structures
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
