@@ -1,0 +1,1 @@
+caesar-cipher>>>>>>>> str[i]=(((s[i]+k)%'z')-1)+('a');
