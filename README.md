@@ -119,7 +119,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Sherlock and the Valid String.c">Sherlock and the Valid String</a>** | **<a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem">🌐 </a>** |   🟡 Medium | 🌱 Basic | 🧵 Strings |
 | **<a href="Problem Solving/Algorithms/Basic/Maximizing XOR.c">Maximizing XOR</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-xor/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Sum vs XOR.c">Sum vs XOR</a>** | **<a href="https://www.hackerrank.com/challenges/sum-vs-xor/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
-| **<a href="Problem Solving/Algorithms/Basic/Maximizing XOR.c">Maximizing XOR</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-xor/problem">🌐 </a>** |   🟢 Easy| 🌱 Basic | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Flipping bits.c">Flipping bits</a>** | **<a href="https://www.hackerrank.com/challenges/flipping-bits/problem">🌐 </a>** |   🟢 Easy| 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Maximizing XOR.c">Maximizing XOR</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-xor/problem">🌐 </a>** |   🟢 Easy| 🌱 Basic | 💡 Bit Manipulation |
 
 ### Data Structures
