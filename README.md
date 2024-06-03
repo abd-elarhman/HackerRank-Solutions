@@ -120,7 +120,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Maximizing XOR.c">Maximizing XOR</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-xor/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Sum vs XOR.c">Sum vs XOR</a>** | **<a href="https://www.hackerrank.com/challenges/sum-vs-xor/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Flipping bits.c">Flipping bits</a>** | **<a href="https://www.hackerrank.com/challenges/flipping-bits/problem">🌐 </a>** |   🟢 Easy| 🌱 Basic | 💡 Bit Manipulation |
-| **<a href="Problem Solving/Algorithms/Basic/Maximizing XOR.c">Maximizing XOR</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-xor/problem">🌐 </a>** |   🟢 Easy| 🌱 Basic | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Counter game.c">Counter game</a>** | **<a href="https://www.hackerrank.com/challenges/counter-game/problem">🌐 </a>** |  🟡 Medium| 🌱 Basic | 💡 Bit Manipulation |
 
 ### Data Structures
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
