@@ -118,10 +118,31 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Caesar Cipher.c">Caesar Cipher </a>** | **<a href="https://www.hackerrank.com/challenges/caesar-cipher-1/problem">🌐 </a>** | 🟢 Easy | 🌱 Basic | 🧵 Strings |
 | **<a href="Problem Solving/Algorithms/Basic/Sherlock and the Valid String.c">Sherlock and the Valid String</a>** | **<a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem">🌐 </a>** |   🟡 Medium | 🌱 Basic | 🧵 Strings |
 | **<a href="Problem Solving/Algorithms/Basic/Maximizing XOR.c">Maximizing XOR</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-xor/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Lonely Integer.c">Lonely Integer</a>** | **<a href="https://www.hackerrank.com/challenges/lonely-integer/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Sum vs XOR.c">Sum vs XOR</a>** | **<a href="https://www.hackerrank.com/challenges/sum-vs-xor/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Flipping bits.c">Flipping bits</a>** | **<a href="https://www.hackerrank.com/challenges/flipping-bits/problem">🌐 </a>** |   🟢 Easy| 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Counter game.c">Counter game</a>** | **<a href="https://www.hackerrank.com/challenges/counter-game/problem">🌐 </a>** |  🟡 Medium| 🌱 Basic | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Sansa and XOR.c">Sansa and XOR</a>** | **<a href="https://www.hackerrank.com/challenges/sansa-and-xor/problem">🌐 </a>** |  🟡 Medium| 🌱 Basic | 💡 Bit Manipulation |
+
+| **<a href="Problem Solving/Algorithms/Basic/Xor-sequence.c">Xor-sequence</a>** | **<a href="https://www.hackerrank.com/challenges/xor-se/problem">🌐 </a>** |  🟡 Medium| 🚀 Intermediate | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/AND Product.c">AND Product</a>** | **<a href="https://www.hackerrank.com/challenges/and-product/problem">🌐 </a>** |  🟡 Medium| 🌱 Basic | 💡 Bit Manipulation |
+
+| **<a href="Problem Solving/Algorithms/Basic/Winning Lottery Ticket.c">Winning Lottery Ticket</a>** | **<a href="https://www.hackerrank.com/challenges/winning-lottery-ticket/problem">🌐 </a>** |  🟡 Medium| 🚀 Intermediate | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Yet Another Minimax Problem.c">Yet Another Minimax Problem</a>** | **<a href="https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem">🌐 </a>** |  🟡 Medium| 🚀 Intermediate | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/The Great XOR.c">The Great XOR</a>** | **<a href="https://www.hackerrank.com/challenges/the-great-xor/problem">🌐 </a>** |  🟡 Medium| 🚀 Intermediate | 💡 Bit Manipulation |
+
+| **<a href="Problem Solving/Algorithms/Basic/Mixing proteins.c">Mixing proteins</a>** | **<a href="https://www.hackerrank.com/challenges/pmix/problem">🌐 </a>** | 🔴 Hard| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/XOR Subsequences.c">XOR Subsequences</a>** | **<a href="https://www.hackerrank.com/challenges/xor-subsequence/problem">🌐 </a>** | 🔴 Hard| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Maximizing the Function.c">Maximizing the Function</a>** | **<a href="https://www.hackerrank.com/challenges/maximizing-the-function/problem">🌐 </a>** | 🔴 Hard| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/XOR key.c">XOR key</a>** | **<a href="https://www.hackerrank.com/challenges/xor-key/problem">🌐 </a>** | 🔴 Hard| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Hamming Distance.c">Hamming Distance</a>** | **<a href="https://www.hackerrank.com/challenges/hamming-distance/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Stone Game.c">Stone Game</a>** | **<a href="https://www.hackerrank.com/challenges/stonegame/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Changing Bits.c">Changing Bits</a>** | **<a href="https://www.hackerrank.com/challenges/changing-bits/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/2's complement.c">2's complement</a>** | **<a href="https://www.hackerrank.com/challenges/2s-complement/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Iterate It.c">Iterate It</a>** | **<a href="https://www.hackerrank.com/challenges/iterate-it/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
+
+| **<a href="Problem Solving/Algorithms/Basic/Sansa and XOR.c">Sansa and XOR</a>** | **<a href="https://www.hackerrank.com/challenges/sansa-and-xor/problem">🌐 </a>** |  🟡 Medium| 🌱 Basic | 💡 Bit Manipulation |
+
 
 ### Data Structures
 |  📝**Problem Name** |  🌐**Link** |  🎚️**Difficulty** | 🛠️**Skills Level** | 📂**Subdomains** |
