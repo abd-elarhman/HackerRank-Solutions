@@ -19,7 +19,7 @@ int sansaXor(int arr_count, int* arr)
     }
     //else
    //then frequency of elements at even positions are odd and frequency of elements at odd positions are even
-  // not that this is zero indexed array
+  // notice that this is zero indexed array
     for (int i = 0; i<arr_count; i+=2)
     {
       result ^= arr[i];
