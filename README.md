@@ -9,6 +9,7 @@
 [1] HypeLink: 
               **<a href="Problem Solving/Algorithms/Basic/Problem 01.c">Problem </a>** 
               **[Problem A](Problem%20Solving/Algorithms/Basic/Problem%2001.c)** 
+
               ** for bold
               %20 for spaces
 [2] emo
@@ -144,6 +145,7 @@ Navigate through the repository using the table below. Each problem is categoriz
 | **<a href="Problem Solving/Algorithms/Basic/Changing Bits.c">Changing Bits</a>** | **<a href="https://www.hackerrank.com/challenges/changing-bits/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/2's complement.c">2's complement</a>** | **<a href="https://www.hackerrank.com/challenges/2s-complement/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
 | **<a href="Problem Solving/Algorithms/Basic/Iterate It.c">Iterate It</a>** | **<a href="https://www.hackerrank.com/challenges/iterate-it/problem">🌐 </a>** | 🔴 Expert| 🌟 Advanced | 💡 Bit Manipulation |
+| **<a href="Problem Solving/Algorithms/Basic/Apple and Orange.c">Apple and Orange</a>** | **<a href="https://www.hackerrank.com/challenges/apple-and-orange/problem">🌐 </a>** |   🟢 Easy | 🌱 Basic | 🛠️ Implementation |
 
 
 ### Data Structures
