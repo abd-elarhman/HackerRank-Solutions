@@ -34,7 +34,7 @@ int birthdayCakeCandles(int candles_count, int* candles)
     //2-count max number freq
     //>>in the same loop
     int max = candles[0];
-    int freq=1; //must be one not zero , because i assume candles[0] is the max so i have one
+    int freq=1; //must be one not zero , because i assume candles[0] is the max so i have one and also i begin loop with i=1 not i=0
     for (i=1 ; i<candles_count ; i++)
     {
         if(candles[i]>max)
